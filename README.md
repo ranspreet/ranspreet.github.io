@@ -15,4 +15,8 @@ Make changes and 'git add . 'them  followed by git commit -m"your message"
 ## Push Changes
 Changes have been made, push  them git push origin "branch"
 
+jese to ab jo staged changes h use msg likh k  , hme commit krna hota h  , ye h git bs
+pdhle ek baar
+commit k
+
 
