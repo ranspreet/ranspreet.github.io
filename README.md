@@ -1,7 +1,7 @@
 # Responsive Portfolio Website
 
 # How to get your own portfolio website?
-## Git Commands
+## Git Commands 
 Here are the commands you will need to get the work done.
 ## Fork
 The very first step is to fork the  repository from GitHub.(The button appears at right-top corner)
@@ -16,4 +16,3 @@ Make changes and 'git add . 'them  followed by git commit -m"your message"
 Changes have been made, push  them git push origin "branch"
 
 
- 
