@@ -10117,7 +10117,7 @@ p.lead {
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-direction: row;
   height: 3.5rem;
   width: 3.5rem;
@@ -10125,7 +10125,7 @@ p.lead {
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
-  margin-right: 1.5rem;
+  /* margin-right: 1.5rem; */
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
