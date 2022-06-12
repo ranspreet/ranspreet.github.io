@@ -13,6 +13,5 @@ Git clone 'URL' - copy all the code  in the current repo you forked
 Make changes and 'git add . 'them  followed by git commit -m"your message"
 
 ## Push Changes
-Changes have been made, push  them git push origin "branch"
-
+Changes have been made, push  them git push origin
 
